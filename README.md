@@ -18,3 +18,10 @@ Tools and Resources for Developing a Model
 How To Run The Model
 - Clone this repository: git clone `https://github.com/Jukang-ID/jukang-id-ml.git`
 - Navigate to the project directory
+
+### Machine Learning Member
+| **Bangkit ID** | **Name** | **Learning Path** | **University** | **Linkedin** |
+| :----------- | :------------- | :---------------| | :------------- | :----------- |
+| M117B4KX4286 | Talitha Husna Salsabila | Machine Learning | Institut Teknologi Nasional Bandung | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talithahusnaa) |
+| M013B4KX1328 | Fadia Zahran Zain | Machine Learning | Universitas Terbuka | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadiazahranzain/) |
+| M013B4KY1192 | Dwi Hadi Yulvi Baskoro | Machine Learning | Universitas Terbuka | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadhibaskoro-/) |
