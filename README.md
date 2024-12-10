@@ -18,6 +18,7 @@ Tools and Resources for Developing a Model
 How To Run The Model
 - Clone this repository: git clone `https://github.com/Jukang-ID/jukang-id-ml.git`
 - Navigate to the project directory
+- Install the requirements.txt
 
 ### Machine Learning Member
 
