@@ -1,5 +1,5 @@
 import json
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 import numpy as np
 import pickle
 import tensorflow as tf
@@ -46,6 +46,10 @@ def combined_predict(text, model, tokenizer, label_encoder, category_keywords):
     return label_encoder.inverse_transform(rnn_label)[0], "Category prediction based on RNN model"
 
 app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return render_template('index.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
